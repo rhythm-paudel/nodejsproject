@@ -1,0 +1,2 @@
+20241024	16:43:12	4d7ce0e2-2d0b-4fb5-8067-cc20e3459f9c	Error: ENOENT: no such file or directory, stat 'C:\ZRHYTHM_ALL\SUMMER_CLASS\CODERS\FULL_STACK_JOURNEY\DAVE_GRAY_BACKEND\NPM_MODULES\routes\views\index.html'
+20241024	17:23:54	b43880cd-e88b-46a6-b346-58fba1071240	TypeError: req.json is not a function
